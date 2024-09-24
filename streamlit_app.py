@@ -1,7 +1,3 @@
-python setup.py install
-
-pip install joblib
-
 import streamlit as st
 import joblib
 import numpy as np
