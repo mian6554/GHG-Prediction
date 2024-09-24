@@ -1,7 +1,7 @@
-pip install "git+https://github.com/joblib/joblib.git"
+
 
 import streamlit as st
-import joblib
+
 import numpy as np
 from sklearn.preprocessing import LabelEncoder
 from sklearn.impute import SimpleImputer
