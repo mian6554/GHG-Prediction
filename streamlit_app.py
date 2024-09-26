@@ -1,6 +1,6 @@
 import streamlit as st
-import sklearn
 import numpy as np
+import sklearn
 from sklearn.preprocessing import LabelEncoder
 from sklearn.impute import SimpleImputer
 from sklearn.preprocessing import MinMaxScaler
