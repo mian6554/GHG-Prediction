@@ -1,3 +1,4 @@
+scikit-learn
 
 import streamlit as st
 import sklearn
